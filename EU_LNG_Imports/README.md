@@ -1,26 +1,23 @@
-# Poland Gas Import Diversification (2015–2025)
+EU LNG Imports: Russia vs USA (2021–2025)
+Project Overview
+This project analyzes changes in the structure of European Union LNG imports between 2021 and 2025.
 
-## Objective
+The analysis compares the share of LNG imports from Russia and the United States using Eurostat data.
 
-To assess changes in the diversification of Poland's natural gas imports using the Herfindahl-Hirschman Index (HHI).
+Research Question
+How did the shares of Russian and American LNG imports to the European Union change after 2021?
 
-## Tools
+Data Source
+Eurostat – Imports of liquefied natural gas from main partners.
 
-- Microsoft Excel
-- Data visualization
-- HHI methodology
-
-## Key Findings
-
-- HHI decreased from 5208 in 2015 to 2648 in 2025.
-- Dependence on Russian gas significantly decreased.
-- LNG imports from the United States and Qatar increased.
-- Norway became an important supplier.
-- Poland improved the diversification of its gas supply structure.
-
-## Skills Demonstrated
-
-- Data analysis
-- Energy security assessment
-- Market concentration analysis
-- Data visualization
+Key Findings
+The United States became the dominant LNG supplier to the European Union.
+Russia’s share declined significantly after 2021.
+The diversification of LNG imports improved EU energy security.
+Tools
+Python
+Pandas
+Matplotlib
+GitHub
+Visualization
+The chart shows quarterly changes in LNG import shares from Russia and the United States between 2021 and 2025.
