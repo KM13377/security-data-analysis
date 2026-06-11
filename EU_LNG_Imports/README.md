@@ -31,3 +31,5 @@ Eurostat – Imports of liquefied natural gas from main partners.
 ## Visualization
 
 The chart shows quarterly changes in LNG import shares from Russia and the United States between 2021 and 2025.
+
+![EU LNG Imports](lng_imports_eu.png)
