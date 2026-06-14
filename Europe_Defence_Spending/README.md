@@ -12,3 +12,5 @@ How have defence spending patterns changed among key European NATO members after
 # Data Source
 NATO Defence Expenditure Report (2025)
 # Visualization
+
+![NATO Defence Spending](nato_spending_poland_germany_france.png)
