@@ -26,3 +26,11 @@ How has NATO's Eastern Flank changed since 2022 and which member states play the
 - Defence spending
 - Strategic importance
 - Security vulnerabilities
+
+- ![NATO Eastern Flank Assessment](eastern_flank_assessment.jpg)
+
+## Key Findings
+- Poland has emerged as NATO's primary military hub on the Eastern Flank.
+- Finland's accession significantly strengthened NATO's northern defence posture.
+- Romania plays an increasingly importnat role in Black Sea security.
+- NATO's post-2022 strategy shifted from deterrence by presence to forward defence.
