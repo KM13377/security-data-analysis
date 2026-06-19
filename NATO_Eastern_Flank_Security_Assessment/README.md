@@ -27,7 +27,7 @@ How has NATO's Eastern Flank changed since 2022 and which member states play the
 - Strategic importance
 - Security vulnerabilities
 
-- ![NATO Eastern Flank Assessment](eastern_flank_assessment)
+- ![NATO Eastern Flank Assessment](eastern_flank_assessment.jpg)
 
 ## Key Findings
 - Poland has emerged as NATO's primary military hub on the Eastern Flank.
